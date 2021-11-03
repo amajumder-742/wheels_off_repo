@@ -1,17 +1,31 @@
-**NEW:** The [Local Video Filter](examples/localvideofilter) example has been updated to use the recently released [Video Processor API](https://github.com/twilio/twilio-video.js/releases/tag/2.13.0) for Chrome.
 
 # Twilio Video Quickstart for JavaScript
 
-[![OS X/Linus Build Status](https://secure.travis-ci.org/twilio/video-quickstart-js.png?branch=master)](http://travis-ci.org/twilio/video-quickstart-js) [![Windows Build status](https://ci.appveyor.com/api/projects/status/3u69uy9c0lsap3dr?svg=true)](https://ci.appveyor.com/project/markandrus/video-quickstart-js)
-
-_For Twilio Video 1.x Quickstart, go [here](https://github.com/twilio/video-quickstart-js/tree/1.x)._
-
 ## Overview
 
-This application should give you a ready-made starting point for writing your
-own video apps with Twilio Video.
+This is how the application looks like after doing some modification and adding some features from the Examples
 
-![screenshot of chat app](quickstart/public/quickstart.png)
+![App Interface](https://user-images.githubusercontent.com/90363910/140011806-095298c1-d201-4544-8747-7620d93e2493.png)
+
+## Features 
+
+### Audio Controls after joinig the call 
+
+![Two Participant Joining the call](https://user-images.githubusercontent.com/90363910/140011884-cabf6329-c8f4-4dc9-b3be-9c8442708d48.png)
+
+
+### Video Controls after joining the call 
+
+![Disabling the Video](https://user-images.githubusercontent.com/90363910/140011888-ab4cd328-0298-447a-b152-5aedf973001a.png)
+
+![Enabling the Video](https://user-images.githubusercontent.com/90363910/140011895-2afb1c64-ab53-4eb7-b17a-4bc50a3deebf.png)
+
+
+### Taking a Screenshot during an ongoing Video Call 
+
+![Taking Screenshot](https://user-images.githubusercontent.com/90363910/140011903-ea834c93-4447-4610-b792-4551384cf6d2.png)
+
+![Deleting the Screenshot](https://user-images.githubusercontent.com/90363910/140011913-aa9b8b93-253f-478b-a46e-1e3728b30d07.png)
 
 ## Setup Requirements
 
