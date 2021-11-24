@@ -159,3 +159,44 @@ This is how the application looks like after doing some modification and adding 
 - Composition SID 2 - **CJd2a15487a57278ecc7d1f3f15e784c89**
 
 &nbsp; 
+
+# Programmable-Video Bot Log Files 
+- P2P React App Log File : https://bit.ly/3COH3qi
+- Group React App Log File : https://bit.ly/3r5PCLs
+
+&nbsp; 
+
+# Kibana Dashboard Links 
+
+### P2P React App 
+- [sdki-rooms_P2P](https://kibana.us1.eak.twilio.com/video/goto/3eafc588faf41663279852dc7c8a3ec5)
+- [video-insights_P2P](https://kibana.us1.eak.twilio.com/video/goto/4b1f8a3e5a7ea3c6c49567e4c6998b5a)
+- [video-vms-reports_P2P ]( https://kibana.us1.eak.twilio.com/video/goto/2354526d84c432629562bc7d58ac8157)
+- [Network Quality_P2P ](https://kibana.us1.eak.twilio.com/video/goto/cba46745a718ccffc84d3127b2f7e402)
+
+&nbsp; 
+
+### Group React App 
+- [sdki-rooms_group](https://kibana.us1.eak.twilio.com/video/goto/2d3997bd93b098dd1054be21e13b466a)
+- [video-insights_group](https://kibana.us1.eak.twilio.com/video/goto/49251267c5da476eb47d8e495b9b0231)
+- [video-vms-reports_group](https://kibana.us1.eak.twilio.com/video/goto/5e282f062103617c229cd79e98fe661f)
+- [Network Quality_group](https://kibana.us1.eak.twilio.com/video/goto/1ba8896bac82fb1a8c7296997fa448a0)
+
+&nbsp; 
+
+### Visualization for NQ scores
+- [Visualisation for the Network Quality Scores_P2P](https://kibana.us1.eak.twilio.com/video/goto/0e7de78c2b9854e6e6a7b1b3fb41e4a4)
+- [Visualisation for the Network Quality Scores_group](https://kibana.us1.eak.twilio.com/video/goto/17a08b85776e83b4e88f47a9cb9e9e64)
+
+&nbsp; 
+
+### Screenshots of Visualization NQ scores
+
+- **P2P**
+![Screenshot 2021-11-24 at 9 18 10 AM](https://user-images.githubusercontent.com/90363910/143188373-ebdc7926-0d3d-4459-84cf-84b76e00adf9.png)
+
+&nbsp; 
+
+- **group**
+
+![Screenshot 2021-11-24 at 9 20 38 AM](https://user-images.githubusercontent.com/90363910/143188400-cca24c5c-4803-4b03-a170-0087c5ecabc8.png)
