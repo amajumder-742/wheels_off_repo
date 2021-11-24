@@ -27,71 +27,83 @@ This is how the application looks like after doing some modification and adding 
 
 ![Deleting the Screenshot](https://user-images.githubusercontent.com/90363910/140011913-aa9b8b93-253f-478b-a46e-1e3728b30d07.png)
 
-## Setup Requirements
+&nbsp; 
 
-Before we begin, we need to collect all the config values we need to run the application:
+# Twilio React App Examples 
 
-- Account SID: Your primary Twilio account identifier - find this [in the console here](https://www.twilio.com/console).
-- API Key SID: Used to authenticate - [generate one here](https://www.twilio.com/console/runtime/api-keys).
-- API Key Secret: Used to authenticate - [just like the above, you'll get one here](https://www.twilio.com/console/runtime/api-keys).
+## Peer to Peer Room 
+- Room Name : **P2P** 
 
-### A Note on API Keys
+- Room SID : **RM1332a47b49d9ac5b74d307c9177784da**
 
-When you generate an API key pair at the URLs above, your API Key Secret will only
-be shown once - make sure to save this in a secure location,
-or possibly your `~/.bash_profile`.
+- P2P React App Log File :**https://bit.ly/3COH3qi**
 
-## Setting Up The Application
+&nbsp; 
 
-Create a configuration file for your application:
+### Room created and two participants joined 
 
-```bash
-cp .env.template .env
-```
+<img width="1787" alt="Screenshot 2021-11-23 at 5 14 05 PM" src="https://user-images.githubusercontent.com/90363910/143177036-3ffa47e1-31fa-45a7-8502-a863d30ceeee.png">
 
-Edit `.env` with the configuration parameters we gathered from above.
+### Reconnecting to the Room 
 
-Next, we need to install our dependencies from npm:
+<img width="1788" alt="Screenshot 2021-11-23 at 5 12 45 PM" src="https://user-images.githubusercontent.com/90363910/143177147-783f526f-f026-4e6b-883b-0556d83b2b02.png">
 
-```bash
-npm install
-```
+<img width="1786" alt="Screenshot 2021-11-23 at 5 14 20 PM" src="https://user-images.githubusercontent.com/90363910/143177211-826b14e5-ee38-4a9c-b8d1-a515f70f5d54.png">
 
-## Running The Application
 
-Now we should be all set! Run the application:
+### Chat feature on the Room 
 
-```bash
-npm start
-```
+<img width="1785" alt="Screenshot 2021-11-23 at 5 13 51 PM" src="https://user-images.githubusercontent.com/90363910/143177190-afe31eed-d656-4afc-9ade-54d9b5a801c2.png">
 
-Your application should now be running at [http://localhost:3000](http://localhost:3000). You will
-be prompted to test and choose your microphone and camera. On desktop browsers, your choices will
-be saved. _On mobile browsers, you will be asked to test and choose your microphone and camera every
-time you load the application in order to make sure they are not reserved by another application_.
+### Virtual Backgroud on the Room 
 
-After choosing your input devices, you will be prompted to enter your Room name and user name, following
-which you will join the Room. Now, all you have to do is open another tab and join the same Room in order
-to see and hear yourself on both tabs!
+<img width="1786" alt="Screenshot 2021-11-23 at 5 14 51 PM" src="https://user-images.githubusercontent.com/90363910/143177265-e5b75a72-32c3-4c65-9c05-1be71951c6dd.png">
 
-[joinroom.js](quickstart/src/joinroom.js) demonstrates how to use the SDK APIs to build a multi-party
-video sesssion. You can start building your own application by incorporating this code into your own
-application, and build your user interface around it.
 
-## Running On Multiple Devices
+<img width="1787" alt="Screenshot 2021-11-23 at 5 15 35 PM" src="https://user-images.githubusercontent.com/90363910/143177277-237fb830-1738-43d8-92d8-924d2b6b979a.png">
 
-You can use [ngrok](https://ngrok.com/) to try your application
-on different devices by creating a secure tunnel to your application server:
+### Room Details 
+![Screenshot 2021-11-23 at 5 34 35 PM](https://user-images.githubusercontent.com/90363910/143177640-99a173be-6d17-46dc-9322-aa91bf027297.png)
 
-```bash
-ngrok http 3000
-```
 
-You will get a URL of the form `https://a1b2c3d4.ngrok.io` which can be loaded on a browser from a device
-different than the one where your application server is running.
+### Recordings 
+![Screenshot 2021-11-23 at 5 34 50 PM](https://user-images.githubusercontent.com/90363910/143177657-e55a9d45-99dd-4f82-88f4-edd174159229.png)
 
-## Examples
 
-The project contains some use-case examples for the Twilio Video JS SDK. After running the application
-by following the instructions above, go to [http://localhost:3000/examples](http://localhost:3000/examples)
-to try them out.
+### Usage Report 
+![Screenshot 2021-11-23 at 5 52 23 PM](https://user-images.githubusercontent.com/90363910/143177665-fa780b70-cf37-4441-9a84-2e1d3cca4654.png)
+
+&nbsp; 
+&nbsp; 
+
+## Group Room 
+
+- Room Name : **group** 
+
+- Room SID : **RM089b28e7cd0444df778d44d4ef3ffd91**
+
+- P2P React App Log File :**https://bit.ly/3r5PCLs**
+
+&nbsp; 
+
+### Multiple participants joined the Room 
+
+![Screenshot 2021-11-24 at 10 34 20 AM](https://user-images.githubusercontent.com/90363910/143178039-d96e00ab-38a7-4783-a178-ebf2a59aa185.png)
+
+### Room Details 
+![Screenshot 2021-11-24 at 10 28 15 AM](https://user-images.githubusercontent.com/90363910/143178347-941e3076-4508-49bd-81c0-657c017a007f.png)
+
+### Recordings 
+![Screenshot 2021-11-24 at 10 28 39 AM](https://user-images.githubusercontent.com/90363910/143178358-0326d4c2-1fb4-4608-b26c-afcbc28595eb.png)
+
+### Usage Report 
+![Screenshot 2021-11-23 at 10 16 49 PM](https://user-images.githubusercontent.com/90363910/143178364-45dae408-8331-4771-a034-63e3cc8a61a2.png)
+
+&nbsp; 
+&nbsp; 
+
+# Recordings 
+
+
+
+
