@@ -104,6 +104,58 @@ This is how the application looks like after doing some modification and adding 
 
 # Recordings 
 
+- [Audio Recording](https://drive.google.com/file/d/10D5RVQf_e_Xk45tEMliROYv8fWe7KBBg/view?usp=sharing)
+- [Video Recording](https://drive.google.com/file/d/1IX_PHSAjgsMIRZDIsWbu8zUEcjEy8QgR/view?usp=sharing)
+- [Full Recording with audio & video](https://drive.google.com/file/d/1SP0xc3W9d95qtujTnfC1aSWJBz20eEqO/view?usp=sharing)
+
+&nbsp; 
+
+**Recording Logs** 
+
+![Screenshot 2021-11-23 at 5 34 50 PM](https://user-images.githubusercontent.com/90363910/143185578-c6030583-098c-401c-9ccd-d3ead34f1565.png)
+
+&nbsp; 
+
+![Screenshot 2021-11-24 at 10 28 39 AM](https://user-images.githubusercontent.com/90363910/143185612-8e0ce73d-4baa-4116-9a61-8574ad6d8758.png)
+
+&nbsp; 
+
+# Composition
+
+### Audio only Compositions 
+- [Composition 1](https://drive.google.com/file/d/10D5RVQf_e_Xk45tEMliROYv8fWe7KBBg/view?usp=sharing)
+- [Composition 2](https://drive.google.com/file/d/1AXUyMg3N48nC_qp7MDScklT4QE4k7C4B/view?usp=sharing)
+
+&nbsp; 
+
+### Video only GRID Compositions 
+- [Composition 1](https://drive.google.com/file/d/1IX_PHSAjgsMIRZDIsWbu8zUEcjEy8QgR/view?usp=sharing)
+- [Composition 2](https://drive.google.com/file/d/1p_Vy6J54GTEC52ksZ6ToBaX1JFLiaCn6/view?usp=sharing)
+
+&nbsp; 
+
+### Final Compositions with Audio & Video 
+- [Composition 1](https://drive.google.com/file/d/1SP0xc3W9d95qtujTnfC1aSWJBz20eEqO/view?usp=sharing)
+- [Composition 2](https://drive.google.com/file/d/1jMdjogMpHOaYZbPc_VoutMBb33YJU_we/view?usp=sharing)
 
 
+&nbsp; 
 
+### Compositions SID's 
+**Audio only Compositions**
+- Composition SID 1 - **CJc435cc6fa3933f6b03a7d1e0dc6860bb**
+- Composition SID 2 - **CJ7b7484351463a277101202c1d945d6af**
+
+&nbsp; 
+
+**Video only GRID Compositions**
+- Composition SID 1 - **CJ24acf2553f9598101447e635531ac22c**
+- Composition SID 2 - **CJ17114c7a3f70ad20cbd4fc08502f3c84**
+
+&nbsp; 
+
+**Final Compositions with Audio & Video**
+- Composition SID 1 - **CJ07a7423f8ed7f634917fab9bc5f5ed44**
+- Composition SID 2 - **CJd2a15487a57278ecc7d1f3f15e784c89**
+
+&nbsp; 
