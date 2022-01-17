@@ -1,9 +1,44 @@
 
 # Twilio Video Quickstart for JavaScript
 
-## Overview
+## Quickstart Examples with Java Console logging on Chrome 
 
-This is how the application looks like after doing some modification and adding some features from the Examples
+### Joinign the Room 
+![Joining](https://user-images.githubusercontent.com/90363910/149763838-1a0600ac-aa66-44b8-97c6-f5f0e5f716ac.png)
+
+
+### Joined with Java Console logging 
+![Joined w:t Java Console opened](https://user-images.githubusercontent.com/90363910/149763857-a5e63b11-5d28-4147-8b1d-46391511d9d3.png)
+
+
+### Bandwidth Constrain with Java Console logging 
+![B:W Constratints w:t JC](https://user-images.githubusercontent.com/90363910/149763864-85e97d2b-95c6-4c06-a2bc-d5c7934aafae.png)
+
+
+### Codec Preferences with Java Console logging 
+![Codec Preference w:t JC](https://user-images.githubusercontent.com/90363910/149763872-619b30f7-5290-4e61-9975-d24a299c4c47.png)
+
+
+### Network Quality with Java Console logging 
+![NQ wih JC](https://user-images.githubusercontent.com/90363910/149763877-99146672-5d50-42c5-bfe0-ca3731bbd5a1.png)
+
+
+### Media Device Selection with Java Console logging 
+![Media Device Selection wih JC](https://user-images.githubusercontent.com/90363910/149763887-278c4aba-2add-4ed7-bdc8-1ec521148d4a.png)
+
+
+### Media Device Connected with Java Console logging 
+![MD w:t JC](https://user-images.githubusercontent.com/90363910/149763894-72a4cd3a-1e22-4232-9c5a-4bf3c1e33a18.png)
+
+
+### Data Track with Java Console logging 
+![Data Track w:t JC](https://user-images.githubusercontent.com/90363910/149763900-2e2bd5f7-98a6-4acf-ae80-f7d175c4cffe.png)
+
+
+
+# Overview
+
+### This is how the application looks like after doing some modification and adding some features from the Examples
 
 ![App Interface](https://user-images.githubusercontent.com/90363910/140011806-095298c1-d201-4544-8747-7620d93e2493.png)
 
